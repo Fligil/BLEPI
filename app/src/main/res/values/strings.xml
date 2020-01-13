@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BLEPI</string>
+
+
+    <string name="server_connection_fault">Server connection fault</string>
+    <string name="write_error">Write error</string>
+    <string name="no_identified_location">No identified location</string>
+    <string name="need_for_enable_your_location">need for enable your location</string>
+    <string name="ok1">OK</string>
+    <string name="Location_not_enabled">Location not enabled</string>
+    <string name="No_bluetooth_connection">No bluetooth connection</string>
+    <string name="need_to_enable_bluetooth">need to enable bluetooth</string>
+    <string name="ok2">OK</string>
+    <string name="Bluetooth_not_enabled">Bluetooth not enabled</string>
+
+
+</resources>
